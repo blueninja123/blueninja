@@ -27,7 +27,7 @@ Step 17: Now you can start using the Repository to install any addon you desire.
 Sorry no plugins built at this point
 
 ### Alternative Method
-download and install directly with a zip file you can find the links below:
+Want to download and install directly with a zip file?  you can find the links below:
 
 Github Webpage      https://blueninja123.github.io/zips/
 Github Source Code  https://github.com/blueninja123/zips
