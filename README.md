@@ -1,6 +1,6 @@
 # Blue Ninja Repository
 
-# What is this repo about?
+## What is this repo about?
 Nothing yet, more a testing repo to see how xbmc is made. I have no intention of hosting any content - my goal longer term is to have a good working repo that will point to other locations. Basically this is just here for educational purposes :)
 
 ### Installation
