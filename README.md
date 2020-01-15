@@ -50,3 +50,4 @@ Want to download and install directly with a zip file?  you can find the links b
 
 - Github Webpage      https://blueninja123.github.io/zips/
 - Github Source Code  https://github.com/blueninja123/zips
+- Download repository.blueninja https://github.com/blueninja123/zips/blob/master/repository.blueninja/repository.blueninja-1.0.1.zip
