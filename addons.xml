@@ -3,14 +3,9 @@
    <addon id="repository.blueninja" name="blueninja Repo" version="1.0.1" provider-name="blueninja">
       <extension point="xbmc.addon.repository" name="blueninja Repo">
          <dir>
-            <info compressed="false">https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/I-A-C/zips/master/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/I-A-C/zips/master/</datadir>
-         </dir>
-         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openscrapers/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/blueninja/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/blueninja/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/blueninja/zips/master/</datadir>
          </dir>
          <dir>
             <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
